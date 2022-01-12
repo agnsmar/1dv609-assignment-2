@@ -5,7 +5,7 @@ Dokumentation
 - [Dokumentation som PDF med timestamp innan deadline](<1dv609 Uppgift 2.pdf>)
 - [Google Docs med aktiv/kontinuerlig dokumentation](https://docs.google.com/document/d/1lUhDSA6sY9vUmORBNlmu9L_ZLibxO4EgjcyXX_Qym74/edit?usp=sharing)
 
-Testverktyget
+Det lilla testverktyget
 - [Körbar](https://clever-mclean-62c64f.netlify.app/)
 - [Koden](https://github.com/toastfairy/validatortoy)
 
